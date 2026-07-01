@@ -6,14 +6,14 @@ This software is a simple C# console application that displays "Hello, World!" a
 
 The purpose of this project is to gain experience creating, running, and publishing a basic program while learning the tools that will be used throughout the course.
 
-[Software Demo Video](https://youtu.be/REPLACE_WITH_YOUR_VIDEO)
+[Software Demo Video](https://youtu.be/NxWl7m0SU5E)
 
 # Development Environment
 
 ## Tools Used
 
 - Visual Studio Code
-- .NET 6 SDK
+- .NET 8 SDK
 - Git
 - GitHub
 
